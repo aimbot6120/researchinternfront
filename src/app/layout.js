@@ -4,7 +4,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 
 export const metadata = {
-  title: "XGaming Form",
+  title: "XGaming Research Agent",
   description: "Single page form to generate PDFs",
 };
 

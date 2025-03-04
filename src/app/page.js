@@ -74,7 +74,7 @@ export default function HomePage() {
       <div className="hero-container" style={{ justifyContent: "center" }}>
         <div className="hero-content" style={{ maxWidth: "500px", margin: "0 auto" }}>
           <h1 className="text-primary" style={{ marginBottom: "1rem", textAlign: "center" }}>
-            Generate Your PDF
+            Competitive Analysis Agent
           </h1>
 
           <form
