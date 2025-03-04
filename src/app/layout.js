@@ -5,7 +5,7 @@ import Footer from "./components/Footer";
 
 export const metadata = {
   title: "XGaming Research Agent",
-  description: "Single page form to generate PDFs",
+  description: "Agent to research and deconstruct games and genre",
 };
 
 export default function RootLayout({ children }) {
